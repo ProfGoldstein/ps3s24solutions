@@ -6,17 +6,17 @@ Solutions to Problem Set 3 Spring 2024
  * change color if clicked on.  A click outside of all the 
  * rings will change all of the rings' colors.
  
-# SurveyResponse
+# SurveyResponse.java
  * The SurveyResponse class represents a survey response from a student.
  * It contains the student ID, course, rating, and comment.
  
-# SurveyResponseIterator
+# SurveyResponseIterator.java
  * Iterator class for use with the SurveyResponse class
  
-# TestSurveyResponse
+# TestSurveyResponse.java
  * Program to test the SurveyResponse class
  
-# testCases
+# testCases.java
  * Code snippet showing test cases for the SurveyResponse class
 
 
