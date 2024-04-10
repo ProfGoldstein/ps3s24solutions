@@ -1,10 +1,8 @@
-
-// import java.util.ArrayList;
 import java.util.List;
 import java.util.Iterator;
 
 /**
- * Part 1 of Problem Set 3 - CSIS 225
+ *  Problem Set 3 - CSIS 225
  * 
  * SurveyResponseIterator class for use with the SurveyResponse class
  * 
