@@ -19,4 +19,8 @@ Solutions to Problem Set 3 Spring 2024
 # testCases.java
  * Code snippet showing test cases for the SurveyResponse class
 
+# edu.siena.csis225.SurveyResponse
+ * Contains the SurveyResponse programs as a package in order to show
+ * how a package can allow the use of various modifiers
+
 
