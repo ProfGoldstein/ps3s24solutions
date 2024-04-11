@@ -47,7 +47,7 @@ public class TestSurveyResponse {
         // Testing courseFeedback
         System.out.println();
         System.out.println("Testing courseFeedback() for course ART:");
-        System.out.println("Expecting two lines. ART 246 2 w/o comment  and  ART 123 10 Love the Prof");
+        System.out.println("Expecting two lines. ART 246 2 w/o comment  and  ART 123 5 Love the Prof");
 
         List<SurveyResponse> artFeedback = SurveyResponse.courseFeedback(testResponses, "ART");
         myIterator = new SurveyResponseIterator(artFeedback);
